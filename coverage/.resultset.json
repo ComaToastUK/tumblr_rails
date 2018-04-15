@@ -1,0 +1,73 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/James/Projects/tumblr/app/controllers/posts_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/James/Projects/tumblr/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/James/Projects/tumblr/app/models/post.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/James/Projects/tumblr/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1523829887
+  }
+}
